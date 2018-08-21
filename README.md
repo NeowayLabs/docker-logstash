@@ -1,5 +1,5 @@
 # docker-logstash
 
-Docker containter build from logstash with logstash-output-slack plugin
+Docker image build from `docker.elastic.co/logstash/logstash:6.3.2` with plugins used by Neoway teams.
 
-Documentation here: https://hub.docker.com/_/logstash/
+Documentation here: https://www.elastic.co/guide/en/logstash/current/docker.html
