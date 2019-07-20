@@ -1,4 +1,4 @@
-FROM docker.elastic.co/logstash/logstash:6.3.2
+FROM docker.elastic.co/logstash/logstash:7.2.0
 
 MAINTAINER labs@neoway.com.br
 
